@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Simone
+I'm a recent graduate in Information Systems + CS and a 3x SWE intern building skills in data analysis, SQL, and dashboards.
 
-<!--
-**simolevy/simolevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tools & Skills
+- Python, pandas, Jupyter
+- SQL (PostgreSQL, MySQL)
+- Tableau, Excel, Power BI
+- Git, GitHub
 
-Here are some ideas to get you started:
+## 📊 Featured Projects
+- **E-Commerce Dashboard** – Tableau-based analysis of customer churn  
+- **COVID Trends** – Python EDA and Streamlit dashboard  
+- **StackOverflow Survey** – SQL + pandas insights on developer salaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/yourname) • [Portfolio Website](https://yourportfolio.com)
